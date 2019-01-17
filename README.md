@@ -1,3 +1,7 @@
+**NOTICE**: This repository won't be updated. Its goal was to provide SCSS sources for Breeze theme, but now these changes are in the upstream. You can use [the official repo](https://github.com/kde/breeze-gtk).
+
+(BTW, it's ironic that the fork ended with the similar notice as the forked repo :) )
+
 # Gnome-breeze
 
 A GTK Theme Built to Match KDE's Breeze. GTK2 theme made by [scionicspectre](https://github.com/scionicspectre/BreezyGTK)
